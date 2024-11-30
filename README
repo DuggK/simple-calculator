@@ -1,0 +1,17 @@
+# Simple Calculator
+
+This is a basic calculator script written in Python. It supports the following operations:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## How to Use
+
+1. Run the script: `python calculator.py`
+2. Follow the on-screen instructions to perform calculations.
+
+## Requirements
+
+- Python 3.x
